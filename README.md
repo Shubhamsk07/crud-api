@@ -1,4 +1,4 @@
-<p align="center">
+#<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
@@ -59,7 +59,7 @@ $ npm run test:cov
 ```
 
 ## Endpoints
-TO get tokken
+```TO get tokken
 1: http://localhost:3000/auth/sigup
 2: http://localhost:3000/auth/login
 TO get,update or delete data
@@ -68,7 +68,7 @@ http://localhost:3000/users/id
 2: post http://localhost:3000/users
 3: put http://localhost:3000/users/id
 4: delete http://localhost:3000/id
-
+```
 
 ## Stay in touch
 
