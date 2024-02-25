@@ -58,9 +58,17 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## Endpoints
+TO get tokken
+1: http://localhost:3000/auth/sigup
+2: http://localhost:3000/auth/login
+TO get,update or delete data
+1: get http://localhost:3000/users
+http://localhost:3000/users/id
+2: post http://localhost:3000/users
+3: put http://localhost:3000/users/id
+4: delete http://localhost:3000/id
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
